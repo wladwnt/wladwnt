@@ -27,3 +27,5 @@ Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer 
 #### Datenschutzerklärung
 
 Diese Webseite ist gehostet und betrieben durch Github. Es gelten die Datenschutzbestimmungen von Github: https://docs.github.com/en/github/site-policy/github-privacy-statement
+
+Diese Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss habe. Für diese fremden Inhalte kann ich keine Gewähr und keine Haftung übernehmen. Für die Inhalte der verlinkten Seiten ist immer der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren dabei nicht erkennbar. Sollten uns Rechtsverletzungen bekannt werden, werde ich die entsprechende Verlinkung umgehend entfernen.
