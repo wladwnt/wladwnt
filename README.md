@@ -8,6 +8,8 @@ Wasserburger Landstr. 29
 
 81825 München
 
+WEEE Reg.-Nr.: DE34359026
+
 #### Kontakt
 
 Telefon: +49 (0) 176 47 11 5206
