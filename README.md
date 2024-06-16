@@ -1,6 +1,6 @@
 ### Impressum
 
-#### Angaben gemäß § 5 TMG
+#### Angaben zum Unternehmen
 
 Wladislaw Waag
 
